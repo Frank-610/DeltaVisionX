@@ -1,5 +1,6 @@
 # DeltaVisionX
 This senior project is an industrial system that combines AI with robotics
+
 The repository should be cloned to the local machine using the following command:
 
 git clone https://github.com/YourUsername/YourRepoName.git
